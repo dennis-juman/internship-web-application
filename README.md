@@ -6,8 +6,9 @@ The services of the Digital Society School keeps expanding. They offer courses, 
 
 The applicants that take part of these track projects create resources during their 5 months of hard work, with resources I mean; images, documents, videos, presentations etc. These files need to be stored somewhere and each year a new semester opens which means the data keeps expanding and becomes harder to manage and keeping track of. They needed a new solution to manage their data. The company I worked for needed a new secure solution to easily find and structure their upcoming and current data.
 
-That is what this application is for. It makes sure that the data being submitted in a strict and structured manner. This application has been coded dynamically. You can:
+That is what this application is for. It makes sure that the data being submitted in a strict and structured manner. This application has been coded dynamically. 
 
+You can:
 upload new projects using this applicatio
 Search and filter existing projects using this application (search functionality)
 Edit an existing project
