@@ -15,4 +15,4 @@ Edit an existing project
 Upload resources (.zip, .jpg. key, and a bunch of others.) (upload system)
 I used a relational-database in order to keep track of all the projects. And an online drive to store all the resources on that automatically creates an hierarchy of all the projects and resources from each semester.
 
-This project is open-source. I spent approximately 160 hours building this.
+This project is open-source. I spent approximately 160 hours building this. It has been finished for about 85%.
