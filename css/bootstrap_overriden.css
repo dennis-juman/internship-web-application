@@ -1,0 +1,99 @@
+/* SELECTED BUTTON "EXACT/APPROXIMATE" */
+.btn-secondary:not([disabled]):not(.disabled):active, .btn-secondary:not([disabled]):not(.disabled).active, .show>.btn-secondary.dropdown-toggle {
+  background-color: rgba(150, 20, 50, 1) !important;
+  margin-top:0px;
+}
+
+/* SELECTED BUTTON "EXACT/APPROXIMATE" */
+.btn-secondary {
+  background-color: rgb(68, 42, 49) !important;
+  margin-top:0px;
+}
+
+/* SUBMIT BUTTON */
+.btn-primary{
+  background-color: rgb(209, 24, 72) !important;
+  color:#fff;
+  margin:0px;
+  margin-top:0px;
+}
+
+/* BUTTON ON CLICK */
+.btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled).active, .show>.btn-primary.dropdown-toggle{
+  background-color: rgba(150, 20, 50, 1) !important;
+}
+/* SEARCH BARS */
+.form-control{
+  color:rgb(226,226,226);
+  background:rgb(18,18,18);
+  border: 1px solid rgb(48,48,48) !important;
+}
+
+/* SEARCH BAR ON FOCUS */
+.form-control:focus{
+  color:rgb(226,226,226);
+  background:rgb(18,18,18);
+  border: 1px solid rgb(48,48,48) !important;
+}
+
+
+/* UPLOAD BUTTON */
+.btn-outline-secondary{
+  color: rgb(209, 24, 72) !important;
+  background-color: transparent;
+  border: 2px solid rgb(209, 24, 72) !important;
+}
+
+
+/* UPOAD BUTTON ON CLICK */
+.btn-outline-secondary:not([disabled]):not(.disabled):active, .btn-outline-secondary:not([disabled]):not(.disabled).active, .show>.btn-outline-secondary.dropdown-toggle{
+  color: rgba(150, 20, 50, 1) !important;
+  background-color: transparent;
+  border: solid 2px rgba(150, 20, 50, 1) !important;
+}
+
+/* UPLOAD BUTTON ON HOVER */
+.btn-outline-secondary:hover{
+  color: rgba(150, 20, 50, 1) !important;
+  background-color: transparent;
+  border: solid 2px rgba(150, 20, 50, 1) !important;
+}
+
+/* UPLOAD BUTTON LABELS + HOVER */
+a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus{
+  color:rgb(226,226,226) !important;
+  text-align: center !important;
+}
+
+a:not([href]):not([tabindex]):hover{
+  background-color: rgb(18,18,18);
+}
+
+
+/* UPLOAD DROP DOWN MENU */
+.dropdown-menu.show{
+  background-color: rgb(39, 39, 39);
+}
+
+
+select{
+  color:rgb(226,226,226) !important;
+  background:rgb(18,18,18);
+  border: 1px solid rgb(48,48,48) !important;
+}
+
+
+
+table.table th, table.table td{
+  padding:0px !important;
+  border:none;
+}
+
+.table td, .table th{
+  padding:0px !important;
+  border:none;
+}
+
+table.table.table-bordered{
+  border:none;
+}

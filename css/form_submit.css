@@ -1,0 +1,21 @@
+html, body{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin:2%;
+}
+
+h1{
+    padding: 0px;
+    margin:0px;
+    color: #212121;
+}
+
+p{
+    padding:0px;
+    margin:0px;
+    color:gray;
+}
