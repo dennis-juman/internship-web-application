@@ -1,8 +1,8 @@
 Date: 27-01-2020 (European notation). This web application has been built by me at the last month of my internship at the Digital Society School - Hogeschool van Amsterdam (University of Applied Sciences).
 
-Before you can understand what this application is for, you will have to know what the company is about. Since this application has been purely built for their needs.
+Before you can understand what this application is meant for, you will have to understand a bit more about the company. Since this application has been purely built for their needs.
 
-The services of the Digital Society School keeps expanding. They offer courses, tracks and more. Each semester people apply for tracks. These tracks contain projects from which the applicant can apply for. If the applicant is hired for the position then he/she will work on that project for the next 5 months.
+The Digital Society School's services keep expanding. They offer courses, tracks and more. Each semester people apply for tracks. These tracks contain projects from which the applicant can apply for. If the applicant is hired for the position then he/she will work on that project for the next 5 months.
 
 The applicants that take part of these track projects create resources during their 5 months of hard work, with resources I mean; images, documents, videos, presentations etc. These files need to be stored somewhere and each year a new semester opens which means the data keeps expanding and becomes harder to manage and keeping track of. They needed a new solution to manage their data. The company I worked for needed a new secure solution to easily find and structure their upcoming and current data.
 
