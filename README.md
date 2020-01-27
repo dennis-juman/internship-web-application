@@ -1,4 +1,4 @@
-Date: 27-01-2020 (European notation). This web application has been built by me at the last month of my internship at the Digital Society School - Hogeschool van Amsterdam.
+Date: 27-01-2020 (European notation). This web application has been built by me at the last month of my internship at the Digital Society School - Hogeschool van Amsterdam (University of Applied Sciences).
 
 Before you can understand what this application is for, you will have to know what the company is about. Since this application has been purely built for their needs.
 
